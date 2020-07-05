@@ -126,3 +126,44 @@ def sortedSquares(A):
     array.sort()
 
     print(array)
+
+
+def duplicateZeros(arr):
+    """
+    Given a fixed length array arr of integers,
+    duplicate each occurrence of zero,
+    shifting the remaining elements to the right.
+
+    Note that elements beyond the length of the original
+    array are not written.
+
+    Do the above modifications to the input array in place,
+    do not return anything from your function.
+
+    Args:
+        arr (List): list of numbers
+    """
+    # get length of list
+    x = len(arr)
+
+    # creates a gate allowing us to check if we've added a value recently
+    added = False
+    for i in range(x):
+        # check if element equals zero and if element was added recently
+        if arr[i] == 0 and added is False:
+            arr.insert(i, 0)
+            added = True
+        # if element equals zero and has been added recently, skip to false
+        elif arr[i] == 0 and added is True:
+            added = False
+
+    # get new length of list
+    y = len(arr)
+
+    # find the difference between initial and new length
+    diff = y - x
+
+    # pop extra values off the list
+    while diff > 0:
+        arr.pop()
+        diff -= 1
