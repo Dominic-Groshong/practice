@@ -1,0 +1,7 @@
+D:\Git\personal\practice\dotNet\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\Git\personal\practice\dotNet\Stack\Stack\bin\Debug\Stack.exe.config
+D:\Git\personal\practice\dotNet\Stack\Stack\bin\Debug\Stack.exe
+D:\Git\personal\practice\dotNet\Stack\Stack\bin\Debug\Stack.pdb
+D:\Git\personal\practice\dotNet\Stack\Stack\obj\Debug\Stack.exe
+D:\Git\personal\practice\dotNet\Stack\Stack\obj\Debug\Stack.pdb
+D:\Git\personal\practice\dotNet\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
