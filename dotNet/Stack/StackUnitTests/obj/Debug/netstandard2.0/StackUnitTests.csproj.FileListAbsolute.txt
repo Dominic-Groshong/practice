@@ -1,5 +1,0 @@
-D:\Git\personal\practice\dotNet\Stack\StackUnitTests\bin\Debug\netstandard2.0\StackUnitTests.deps.json
-D:\Git\personal\practice\dotNet\Stack\StackUnitTests\bin\Debug\netstandard2.0\StackUnitTests.dll
-D:\Git\personal\practice\dotNet\Stack\StackUnitTests\obj\Debug\netstandard2.0\StackUnitTests.csprojAssemblyReference.cache
-D:\Git\personal\practice\dotNet\Stack\StackUnitTests\obj\Debug\netstandard2.0\StackUnitTests.AssemblyInfoInputs.cache
-D:\Git\personal\practice\dotNet\Stack\StackUnitTests\obj\Debug\netstandard2.0\StackUnitTests.AssemblyInfo.cs
